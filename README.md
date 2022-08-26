@@ -1,4 +1,4 @@
-# README
+# ALPHA BLOG
 
 Welcome to Alpha Blog! This is a sample blog application that allows 
 a user to add/edit/delete articles along with the ability to 
