@@ -17,4 +17,4 @@ To run this application locally, you need to do the following:
 - Once yarn is installed, run the following command:
 yarn add bootstrap@4.4.1 jquery popper.js
 
-- Navigate to localhost:3000 and enjoy!
+- Start your rails server, navigate to localhost:3000 and enjoy!
