@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Alpha Blog! This is a sample blog application that allows 
+a user to add/edit/delete articles along with the ability to 
+assign/edit/delete categories.
 
-Things you may want to cover:
+# Install/Run
 
-* Ruby version
+To run this application locally, you need to do the following:
 
-* System dependencies
+- Clone the repo
 
-* Configuration
+- Run "bundle install" to install all necessary gems
 
-* Database creation
+- If you don't have yarn installed, you need to first install yarn
 
-* Database initialization
+- Once yarn is installed, run the following command:
+yarn add bootstrap@4.4.1 jquery popper.js
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Navigate to localhost:3000 and enjoy!
